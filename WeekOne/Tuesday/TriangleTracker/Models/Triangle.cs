@@ -13,7 +13,7 @@ namespace TriangleTracker.Models
       Side3 = side3;
     }
 
-    public string DetermineTriangleType()
+    public string DetermineType()
     {
       if (!IsValid()) return "Invalid triangle";
 

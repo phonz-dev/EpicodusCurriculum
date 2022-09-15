@@ -15,7 +15,7 @@ namespace TriangleTracker
 
       Triangle triangle = new Triangle(num1, num2, num3);
 
-      Console.WriteLine(triangle.DetermineTriangleType());
+      Console.WriteLine(triangle.DetermineType());
     }
   }
 }
