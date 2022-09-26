@@ -1,0 +1,4 @@
+namespace ScrabbleScorer.Models
+{
+
+}
